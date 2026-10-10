@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "RAISTAR",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "DivineNHell.aternos.me",
-    "port": 49324,
+    "ip": "FFxMCJE35.aternos.me",
+    "port": 63891,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "tu muje one verses custom mai haraye ga tere bass ki batt nahi hai",
+        "harsht janved plays minecraft",
+        "vaskedena huiye"
       ]
     },
     "chat-log": true,
